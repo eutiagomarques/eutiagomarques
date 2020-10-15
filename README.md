@@ -4,7 +4,7 @@
 ### Formado em Eng. de Software, desde 2018 transformando Paçoquita e M&M's em código.
 
 
-***Me siga nas redes sociais:***
+***Me sigam nas redes sociais:***
 
 <p align="left"> <a href="https://twitter.com/soutiagomarques" target="blank"><img src="https://img.shields.io/twitter/follow/soutiagomarques?logo=twitter&style=for-the-badge" alt="soutiagomarques" /></a> </p>
 
@@ -18,12 +18,16 @@
    
 ![Tiago Marques GitHub Stats](https://github-readme-stats.vercel.app/api?username=soutiagomarques&show_icons=true)
 
+### Sempre que possível escrevo algo interessante por aqui:
 <p align="left">
 <a href="https://dev.to/soutiagomarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="soutiagomarques" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/59487" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="59487" height="30" width="40" /></a>
 <a href="https://medium.com/@soutiagomarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@soutiagomarques" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ttsmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ttsmarques" height="30" width="40" /></a>
 </p>
+
+* Você ainda pode me encontrar uns códigos meus no 
+<a href="https://stackoverflow.com/users/59487" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="59487" height="30" width="40" /></a> ou no 
+<a href="https://www.hackerrank.com/ttsmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ttsmarques" height="30" width="40" /></a>
+
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutiagomarques&layout=compact" alt="soutiagomarques" /></p>
