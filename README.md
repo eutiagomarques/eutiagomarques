@@ -1,3 +1,5 @@
+<p> <img src="https://komarev.com/ghpvc/?username=soutiagomarques&label=Profile%20views&color=0e75b6&style=flat" alt="soutiagomarques" /> </p>
+
 ## Olá 👋, me chamo Tiago Marques
 ### Formado em Eng. de Software, desde 2018 transformando Paçoquita e M&M's em código.
 
@@ -25,6 +27,3 @@
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soutiagomarques&layout=compact" alt="soutiagomarques" /></p>
-
-<br>
-<p> <img src="https://komarev.com/ghpvc/?username=soutiagomarques&label=Profile%20views&color=0e75b6&style=flat" alt="soutiagomarques" /> </p>
