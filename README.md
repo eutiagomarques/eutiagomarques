@@ -1,5 +1,5 @@
-# Olá 👋, me chamo Tiago Marques
-## Formado em Eng. de Software, desde 2018 transformando Paçoquita e M&M em código.
+## Olá 👋, me chamo Tiago Marques
+### Formado em Eng. de Software, desde 2018 transformando Paçoquita e M&M's em código.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soutiagomarques&label=Profile%20views&color=0e75b6&style=flat" alt="soutiagomarques" /> </p>
 
