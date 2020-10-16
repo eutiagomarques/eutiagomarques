@@ -1,3 +1,6 @@
+![capa github](https://github.com/soutiagomarques/soutiagomarques/blob/main/images/capa.png)  
+
+
 <p> <img src="https://komarev.com/ghpvc/?username=soutiagomarques&label=Profile%20views&color=0e75b6&style=flat" alt="soutiagomarques" /> </p>
 
 ## Olá 👋, me chamo Tiago Marques
