@@ -27,7 +27,6 @@
 <br>
 
 * Você ainda pode me encontrar uns códigos meus no 
-<a href="https://stackoverflow.com/users/59487" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="59487" height="30" width="40" /></a> ou no 
 <a href="https://www.hackerrank.com/ttsmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ttsmarques" height="30" width="40" /></a>
 <br>
 
