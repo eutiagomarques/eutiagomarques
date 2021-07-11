@@ -1,4 +1,4 @@
-![capa github](https://github.com/eutiagomarques/eutiagomarques/blob/main/images/capa.png)  
+![capa github](https://github.com/eutiagomarques/eutiagomarques/blob/main/images/nova_capa.png)  
 
 ## Olá 👋, me chamo Tiago! :D
 #### Sou desenvolvedor mobile, apaixonado por tecnologia e paçoquita.
