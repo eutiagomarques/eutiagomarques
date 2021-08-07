@@ -16,7 +16,7 @@
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eutiagomarques&layout=compact&theme=radical)
 
-Sempre que possível escrevo algo interessante por aqui ✍🏼 - [Medium](https://medium.com/@soutiagomarques)  Ou por aqui  ✍🏼 - [Hashnode](https://eutiagomarques.hashnode.dev/)
+✍🏼 Sempre que possível escrevo algo interessante por aqui [Medium](https://medium.com/@soutiagomarques) Ou por aqui [Hashnode](https://eutiagomarques.hashnode.dev/)
 
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
