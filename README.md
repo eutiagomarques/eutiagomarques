@@ -5,7 +5,7 @@
 
 
 ### Sobre mim.
-Apaixonado por desenvolvimento mobile, hoje atuo como desenvolvedor iOS sênior com muita experiencia em criação de app`s nativos e SDK`s respeitando sempre os padrões de projeto e as melhores práticas. Com quase 6 anos dedicados a aprimorar minhas habilidades em tecnologias mobile, já atuei em diversas equipes e projetos. Além de ter atuado em equipe multidisciplinares.
+Apaixonado por desenvolvimento mobile, hoje atuo como desenvolvedor iOS sênior com muita experiencia em criação de apps nativos e SDKs, respeitando sempre os padrões de projeto e as melhores práticas. Com quase 6 anos dedicados a aprimorar minhas habilidades em tecnologias mobile, já atuei em diversas equipes e projetos. Além de ter atuado em equipe multidisciplinares.
 
 No início da minha jornada profissional, atuei orgulhosamente como desenvolvedor full stack, função que colaborou grandemente para que eu tivesse a visão sobre o desenvolvimento de software mais aprimorada. Além de criar interfaces de usuário de alto nível, assumi diversas tarefas relacionadas a integrações e análise de dados.
 
@@ -26,6 +26,4 @@ No início da minha jornada profissional, atuei orgulhosamente como desenvolvedo
 <a href="https://www.linkedin.com/in/eutiagomarques" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-  Sempre que possível escrevo algo interessante por aqui [ Medium ](https://medium.com/@soutiagomarques). ✍🏼
-</div>
+Sempre que possível escrevo algo interessante por aqui [ Medium ](https://medium.com/@soutiagomarques). ✍🏼
