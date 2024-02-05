@@ -26,4 +26,10 @@ No início da minha jornada profissional, atuei orgulhosamente como desenvolvedo
 <a href="https://www.linkedin.com/in/eutiagomarques" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div>
+  <i class="devicon-swift-plain-wordmark colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+          
+</div>
+
 Sempre que possível escrevo algo interessante por aqui [ Medium ](https://medium.com/@soutiagomarques). ✍🏼
