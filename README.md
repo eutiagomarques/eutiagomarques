@@ -1,6 +1,6 @@
 ![capa github](https://github.com/eutiagomarques/eutiagomarques/blob/main/images/nova_capa.png)  
 
-## Olá 👋, me chamo Tiago! :D
+## Olá, me chamo Tiago! 👋
 #### Sou desenvolvedor mobile, apaixonado por música e tecnologia.
 
 <p> 
