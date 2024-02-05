@@ -6,12 +6,10 @@
 
 
 
-<div>
-  ###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja meus status no Github 
+###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Veja meus status no Github 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=eutiagomarques&show_icons=true&theme=radical)
 
-  ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eutiagomarques&layout=compact&theme=radical)
-</div>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eutiagomarques&layout=compact&theme=radical)
 
 ## Contatos:
 
@@ -23,10 +21,5 @@
 </div>
 
 <div>
-  Sempre que possível escrevo algo interessante por aqui [Medium](https://medium.com/@soutiagomarques), ou por aqui [Hashnode](https://eutiagomarques.hashnode.dev/) ✍🏼
+  Sempre que possível escrevo algo interessante por aqui [ Medium ](https://medium.com/@soutiagomarques). ✍🏼
 </div>
-
-<div>
-  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-</div>
-
