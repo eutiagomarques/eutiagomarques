@@ -1,7 +1,13 @@
 ![capa github](https://github.com/eutiagomarques/eutiagomarques/blob/main/images/nova_capa.png)  
 
-# Olá, me chamo Tiago ! 
+# Olá, me chamo Tiago! 
 ## Bem vindo ao meu perfil GitHub 👋
+
+
+### Sobre mim.
+Apaixonado por desenvolvimento mobile, hoje atuo como desenvolvedor iOS sênior com muita experiencia em criação de app`s nativos e SDK`s respeitando sempre os padrões de projeto e as melhores práticas. Com quase 6 anos dedicados a aprimorar minhas habilidades em tecnologias mobile, já atuei em diversas equipes e projetos. Além de ter atuado em equipe multidisciplinares.
+
+No início da minha jornada profissional, atuei orgulhosamente como desenvolvedor full stack, função que colaborou grandemente para que eu tivesse a visão sobre o desenvolvimento de software mais aprimorada. Além de criar interfaces de usuário de alto nível, assumi diversas tarefas relacionadas a integrações e análise de dados.
 
 
 
